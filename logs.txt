@@ -1,0 +1,16 @@
+[2024-05-09 19:41:15] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 19:42:25] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 19:44:37] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 19:45:44] Inicio de sesión exitoso para el usuario 'ariana'.
+[2024-05-09 19:47:54] Inicio de sesión exitoso para el usuario 'ariana'.
+[2024-05-09 19:53:14] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 19:53:26] Inicio de sesión exitoso para el usuario 'ariana'.
+[2024-05-09 19:56:26] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 19:59:53] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 20:02:34] Inicio de sesión exitoso para el usuario 'AZSx'.
+[2024-05-09 20:02:57] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 20:16:33] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 20:24:35] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 20:26:54] Inicio de sesión exitoso para el usuario 'Nueva prueba'.
+[2024-05-09 21:16:00] Inicio de sesión exitoso para el usuario 'administrador'.
+[2024-05-09 21:16:06] Inicio de sesión exitoso para el usuario 'administrador'.
